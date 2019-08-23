@@ -14,6 +14,7 @@ $width333screen: 220px;
     background-repeat: no-repeat;
     height: 100vh;
     overflow: hidden;
+    min-height: 482px;
 
     @media screen and (max-width: 333px){
         height: 650px;
